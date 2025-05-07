@@ -1,4 +1,4 @@
-# Maven Market Sales Dashboard – Power BI
+# Maven Market Dashboard – Power BI
 
 This project is a complete business intelligence case study built using data from *Maven Market*, a fictional multinational grocery chain with locations in Canada, Mexico, and the United States.
 
